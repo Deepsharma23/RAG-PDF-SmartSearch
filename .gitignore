@@ -8,4 +8,5 @@ faiss_index/
 .DS_Store
 *.pyc
 .streamlit/
-documents/
+documents/*
+!documents/.gitkeep
