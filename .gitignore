@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__
+objectbox/
+*.mdb
+test_pdf.py
+faiss_index/
+.DS_Store
+*.pyc
+.streamlit/
+documents/
